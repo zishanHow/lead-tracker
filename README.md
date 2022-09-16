@@ -3,4 +3,4 @@ Extension link:
 ## About me
 Hi, my name is Zishan.
 
-It's a chrome extension where you can save or bookmark any website links(URL) for later use.
+This Chrome extension saves the webpage URL, so you can use it later. Similar to a bookmark, it tracks the URL of a website you desire. 
