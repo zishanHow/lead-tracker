@@ -1,4 +1,4 @@
-Extension link: 
+Extension link: https://inspiring-semifreddo-8d792d.netlify.app
 
 ## About me
 Hi, my name is Zishan.
